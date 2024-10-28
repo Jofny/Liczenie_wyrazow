@@ -1,2 +1,2 @@
-# Word_Counter
-A project using morphological transformations on a signal to count words in a voice recording.
+# Liczenie_wyrazow
+Projekt wykorzystujący morfologiczne przetkrztałcenia aby zliczyć słowa w wypowiedzi.
